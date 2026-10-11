@@ -1,9 +1,9 @@
 {
   "name": "CAMERA SKODENG",
   "short_name": "CAMERA SKODENG",
-  "start_url": "/skodeng/",
-  "scope": "/skodeng/",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000"
+  "background_color": "#090d17",
+  "theme_color": "#111827",
+  "scope": "./"
 }
